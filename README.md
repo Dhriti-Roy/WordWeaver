@@ -1,3 +1,3 @@
 # Text-Editor
 # Python
-The project is underconstruction.
+The project is upcoming.
