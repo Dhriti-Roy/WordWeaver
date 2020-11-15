@@ -1,3 +1,3 @@
 # Text-Editor
 # Python
-The project isjust upcoming.
+The project is upcoming.
