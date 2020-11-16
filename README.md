@@ -1,3 +1,3 @@
 # Text-Editor
 # Python
-The project is upcoming.
+This is Tkinter Application.
