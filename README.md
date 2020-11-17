@@ -1,4 +1,4 @@
 # Text-Editor
-This is a Tkinter Application.It has every feature that a text editor needs. 
-# Python
-This is Tkinter Application.
+***This is a Tkinter Application.It has every feature that we need in a text editor.
+
+# What you need to Run this
