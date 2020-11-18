@@ -20,3 +20,11 @@ This text editor was inspired by notepad features. It has many additional featur
 
 ***3. Set-up File***-
 Set up file is used to convert the respective code into a real software.
+
+# Guidelines for pull requests :
+Pull-requests are welcomed.
+*1. check the issues column for the drawbacks in the code and if you think you have a solution, then please send us a pull request,*
+*2. If you want to add more function or features, you pull request is heartly welcomed,*
+*3. If you think that the code needs more modifications , please let us know.*
+
+***Thanks for visiting***
