@@ -21,6 +21,10 @@ This text editor was inspired by notepad features. It has many additional featur
 ***3. Set-up File***-
 Set up file is used to convert the respective code into a real software.
 
+# Result
+
+<img scr = "Saved Pictures\mi.jpg" width = 200>
+
 # Guidelines for pull requests :
 
 ***Pull-requests are welcomed.***
