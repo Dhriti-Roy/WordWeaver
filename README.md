@@ -23,7 +23,7 @@ Set up file is used to convert the respective code into a real software.
 
 # Guidelines for pull requests :
 
-Pull-requests are welcomed.
+***Pull-requests are welcomed.***
 
 *1. check the issues column for the drawbacks in the code and if you think you have a solution, then please send us a pull request,*
 
