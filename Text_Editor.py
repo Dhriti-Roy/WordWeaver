@@ -6,7 +6,7 @@ import datetime
 
 main_application = tk.Tk()
 main_application.geometry('1200x800')
-main_application.title('TEXT EDITOR')
+main_application.title('MY EDITOR')
 
 def func():
     pass
