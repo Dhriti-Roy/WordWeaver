@@ -314,7 +314,10 @@ def save_file(event=None):
             with open(url,'w', encoding='utf-8') as fw:
                 fw.write(content)
         else:
-            return
+            url = filedialog.asksaveasfile(mode='w', defaultextension='.txt' , filetypes=(('Text File', '*.txt'),('All files', '*.*')))
+            content2 = text_editor.get(1.0, tk.END)
+            url.write(content2)
+            url.close()
     except:
         return        
 
@@ -329,6 +332,11 @@ def save_as_file(event=None):
             content2 = text_editor.get(1.0, tk.END)
             url.write(content2)
             url.close()
+        else:
+            url = filedialog.asksaveasfile(mode='w', defaultextension='.txt' , filetypes=(('Text File', '*.txt'),('All files', '*.*')))
+            content2 = text_editor.get(1.0, tk.END)
+            url.write(content2)
+            url.close()    
     except:
         return        
 
