@@ -8,7 +8,6 @@ def func():
 
 def aboutus():
     print('Developer- Dhriti Roy')
-    print('Program Type- "Menubar"')
 
 #                                                   MENU >>
 
