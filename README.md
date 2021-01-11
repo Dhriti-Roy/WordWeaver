@@ -1,8 +1,11 @@
 # Text-Editor
+# GUI APPLICATION
+
+INTRODUCTION:
 
 ***This is a Tkinter Application.It has every feature that we need in a text editor.***
 
-# Requirement
+# Requirement:
 
 ***1. VS CODE***
 
