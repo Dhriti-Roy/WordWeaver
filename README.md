@@ -3,7 +3,7 @@
 
 INTRODUCTION:
 
-***This is a Tkinter Application.***
+***This is a Tkinter Application. ***
 
 # Requirement:
 
@@ -34,4 +34,4 @@ Set up file is used to convert the respective code into a real software.
 
 *3. If you think that the code needs more modifications , please let us know.*
 
-***Thanks for visiting***
+***Thanks for visiting ***
