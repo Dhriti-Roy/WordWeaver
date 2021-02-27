@@ -1,4 +1,4 @@
-# Text-Editor
+# Text -Editor
 # GUI APPLICATION
 
 INTRODUCTION:
