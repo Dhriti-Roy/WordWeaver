@@ -8,7 +8,7 @@ INTRODUCTION:
 
 # Requirement:
 
-***1. VS CODE ***
+***1. VS CODE***
 
 ***2. Python IDLE***
 
