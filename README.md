@@ -1,5 +1,7 @@
 # Text -Editor
 
+Hey this is a :
+
 # GUI APPLICATION
 
 INTRODUCTION:
@@ -7,6 +9,7 @@ INTRODUCTION:
 *** This is a Tkinter Application. ***
 
 # Requirement:
+
 
 ***1. VS CODE***
 
