@@ -1,7 +1,5 @@
 # Text -Editor
 
-Hey this is a :
-
 # GUI APPLICATION
 
 INTRODUCTION:
