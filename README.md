@@ -1,6 +1,6 @@
 # Text -Editor
 
-# GUI APPLICATION
+# GUI APPLICATION -
 
 INTRODUCTION:
 
