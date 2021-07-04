@@ -4,7 +4,8 @@
 
 INTRODUCTION:
 
-*** This is a Tkinter Application. ***
+This is a Tkinter Application. 
+This is a Tkinter Application. 
 
 # Requirement:
 
