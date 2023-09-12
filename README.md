@@ -1,4 +1,5 @@
-# Text -Editor
+# "WordWeaver" 
+## My Text Editor
 
 ## GUI APPLICATION -
 
